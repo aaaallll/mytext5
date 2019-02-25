@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="commons-beanutils-1.9.3 (2)">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/Sever2_war_exploded/WEB-INF/lib/commons-beanutils-1.9.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/Sever2_war_exploded/WEB-INF/lib/commons-logging.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
